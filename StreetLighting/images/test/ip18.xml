@@ -1,0 +1,38 @@
+<annotation>
+	<folder>amostra_imgs</folder>
+	<filename>ip18.jpg</filename>
+	<path>S:\DComercial\Atendimento_Cliente\Processos_Comerciais\Supervisao\DataScience\Nossos Projetos e Demandas\Estruturados\____Contagem_IP\amostra_imgs\ip18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>24</ymin>
+			<xmax>699</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>IP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>398</ymin>
+			<xmax>354</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

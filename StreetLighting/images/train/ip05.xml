@@ -1,0 +1,26 @@
+<annotation>
+	<folder>amostra_imgs</folder>
+	<filename>ip05.jpg</filename>
+	<path>S:\DComercial\Atendimento_Cliente\Processos_Comerciais\Supervisao\DataScience\Nossos Projetos e Demandas\Estruturados\____Contagem_IP\amostra_imgs\ip05.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>9</ymin>
+			<xmax>668</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
